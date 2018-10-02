@@ -1,2 +1,2 @@
-# homework1
+# training
 importing, cleaning and visualizing data
